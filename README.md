@@ -1,4 +1,4 @@
-# NespressoWebsiteScraper
+# Nespresso Website Ops
 Attemps to navigate the buggy Turkish Nespresso Website using web requests.
 
 ### Summary:
